@@ -1,0 +1,2 @@
+streams = load_xdf('C:\Users\Rachel\Documents\CurrentStudy\sub-P001\ses-S001\ecg.xdf')
+
